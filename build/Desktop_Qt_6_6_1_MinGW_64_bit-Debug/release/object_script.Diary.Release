@@ -1,0 +1,14 @@
+release/categoryManager.o
+release/diaryModel.o
+release/diaryProxyModel.o
+release/diarydb.o
+release/exportManager.o
+release/main.o
+release/notificationManager.o
+release/qrc_qml.o
+release/moc_categoryManager.o
+release/moc_diaryModel.o
+release/moc_diaryProxyModel.o
+release/moc_diarydb.o
+release/moc_exportManager.o
+release/moc_notificationManager.o

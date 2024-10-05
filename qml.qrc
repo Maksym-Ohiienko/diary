@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/qmlSources">
+        <file>Main.qml</file>
+        <file>SimplePage.qml</file>
+        <file>RoundButton.qml</file>
+        <file>DiaryCalendar.qml</file>
+        <file>SelectDateDialog.qml</file>
+        <file>AddButton.qml</file>
+        <file>DiaryToolBar.qml</file>
+        <file>RecordPage.qml</file>
+        <file>PageButton.qml</file>
+        <file>CalendarDialog.qml</file>
+        <file>TimeAndReminderDialog.qml</file>
+        <file>RepeatDialog.qml</file>
+        <file>RecordTextEdit.qml</file>
+        <file>RecordListPage.qml</file>
+        <file>RecordListPageView.qml</file>
+        <file>SortModeDialog.qml</file>
+        <file>CalendarPage.qml</file>
+        <file>DiaryToolTip.qml</file>
+        <file>DiaryComboBox.qml</file>
+        <file>PrintPage.qml</file>
+        <file>ProfilePage.qml</file>
+        <file>DiaryMessageBox.qml</file>
+        <file>DiarySwitch.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>MainPageIcons/calendar.png</file>
+        <file>MainPageIcons/profile.png</file>
+        <file>MainPageIcons/search.png</file>
+        <file>MainPageIcons/todoList.png</file>
+        <file>CalendarPageIcons/calendarBackDate.png</file>
+        <file>MainPageIcons/back.png</file>
+        <file>RecordListPageIcons/checkMark.png</file>
+        <file>MainPageIcons/dotsMenu.png</file>
+        <file>RecordPageIcons/deadlineCalendar.png</file>
+        <file>RecordPageIcons/notes.png</file>
+        <file>RecordPageIcons/repeat.png</file>
+        <file>RecordPageIcons/time.png</file>
+        <file>PrintPageIcons/dateFrom.png</file>
+        <file>PrintPageIcons/dateCheck.png</file>
+        <file>PrintPageIcons/export.png</file>
+        <file>ProfilePageIcons/profile.png</file>
+        <file>RecordPageIcons/delete.png</file>
+        <file>MainPageIcons/feedback.png</file>
+        <file>RecordPageIcons/reminder.png</file>
+        <file>MainPageIcons/reminderOff.png</file>
+        <file>MainWindowIcon/diary.ico</file>
+    </qresource>
+    <qresource prefix="/json">
+        <file>JSON/categories.json</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+debug/categoryManager.o
+debug/diaryModel.o
+debug/diaryProxyModel.o
+debug/diarydb.o
+debug/exportManager.o
+debug/main.o
+debug/notificationManager.o
+debug/qrc_qml.o
+debug/moc_categoryManager.o
+debug/moc_diaryModel.o
+debug/moc_diaryProxyModel.o
+debug/moc_diarydb.o
+debug/moc_exportManager.o
+debug/moc_notificationManager.o

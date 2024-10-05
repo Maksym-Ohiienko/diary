@@ -1,0 +1,10 @@
+{
+    "categories": [
+        {"category": "Without category", "color": "darkblue"},
+        {"category": "Work", "color": "skyblue"},
+        {"category": "Study", "color": "royalblue"},
+        {"category": "Personal", "color": "deepskyblue"},
+        {"category": "Birthday", "color": "dodgerblue"},
+        {"category": "Relax", "color": "steelblue"}
+    ]
+}

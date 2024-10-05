@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/qmlSources">
+        <file alias="Main.qml">Main.qml</file>
+        <file alias="SimplePage.qml">SimplePage.qml</file>
+        <file alias="RoundButton.qml">RoundButton.qml</file>
+        <file alias="DiaryCalendar.qml">DiaryCalendar.qml</file>
+        <file alias="SelectDateDialog.qml">SelectDateDialog.qml</file>
+        <file alias="AddButton.qml">AddButton.qml</file>
+        <file alias="DiaryToolBar.qml">DiaryToolBar.qml</file>
+        <file alias="RecordPage.qml">RecordPage.qml</file>
+        <file alias="PageButton.qml">PageButton.qml</file>
+        <file alias="CalendarDialog.qml">CalendarDialog.qml</file>
+        <file alias="TimeAndReminderDialog.qml">TimeAndReminderDialog.qml</file>
+        <file alias="RepeatDialog.qml">RepeatDialog.qml</file>
+        <file alias="RecordTextEdit.qml">RecordTextEdit.qml</file>
+        <file alias="RecordListPage.qml">RecordListPage.qml</file>
+        <file alias="RecordListPageView.qml">RecordListPageView.qml</file>
+        <file alias="SortModeDialog.qml">SortModeDialog.qml</file>
+        <file alias="CalendarPage.qml">CalendarPage.qml</file>
+        <file alias="DiaryToolTip.qml">DiaryToolTip.qml</file>
+        <file alias="DiaryComboBox.qml">DiaryComboBox.qml</file>
+        <file alias="PrintPage.qml">PrintPage.qml</file>
+        <file alias="ProfilePage.qml">ProfilePage.qml</file>
+        <file alias="DiaryMessageBox.qml">DiaryMessageBox.qml</file>
+        <file alias="DiarySwitch.qml">DiarySwitch.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="MainPageIcons/calendar.png">MainPageIcons/calendar.png</file>
+        <file alias="MainPageIcons/profile.png">MainPageIcons/profile.png</file>
+        <file alias="MainPageIcons/search.png">MainPageIcons/search.png</file>
+        <file alias="MainPageIcons/todoList.png">MainPageIcons/todoList.png</file>
+        <file alias="CalendarPageIcons/calendarBackDate.png">CalendarPageIcons/calendarBackDate.png</file>
+        <file alias="MainPageIcons/back.png">MainPageIcons/back.png</file>
+        <file alias="RecordListPageIcons/checkMark.png">RecordListPageIcons/checkMark.png</file>
+        <file alias="MainPageIcons/dotsMenu.png">MainPageIcons/dotsMenu.png</file>
+        <file alias="RecordPageIcons/deadlineCalendar.png">RecordPageIcons/deadlineCalendar.png</file>
+        <file alias="RecordPageIcons/notes.png">RecordPageIcons/notes.png</file>
+        <file alias="RecordPageIcons/repeat.png">RecordPageIcons/repeat.png</file>
+        <file alias="RecordPageIcons/time.png">RecordPageIcons/time.png</file>
+        <file alias="PrintPageIcons/dateFrom.png">PrintPageIcons/dateFrom.png</file>
+        <file alias="PrintPageIcons/dateCheck.png">PrintPageIcons/dateCheck.png</file>
+        <file alias="PrintPageIcons/export.png">PrintPageIcons/export.png</file>
+        <file alias="ProfilePageIcons/profile.png">ProfilePageIcons/profile.png</file>
+        <file alias="RecordPageIcons/delete.png">RecordPageIcons/delete.png</file>
+        <file alias="MainPageIcons/feedback.png">MainPageIcons/feedback.png</file>
+        <file alias="RecordPageIcons/reminder.png">RecordPageIcons/reminder.png</file>
+        <file alias="MainPageIcons/reminderOff.png">MainPageIcons/reminderOff.png</file>
+        <file alias="MainWindowIcon/diary.ico">MainWindowIcon/diary.ico</file>
+    </qresource>
+    <qresource prefix="/json">
+        <file alias="JSON/categories.json">JSON/categories.json</file>
+    </qresource>
+</RCC>
